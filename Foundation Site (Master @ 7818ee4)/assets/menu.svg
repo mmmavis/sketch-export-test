@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="21px" viewBox="0 0 29 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="[M]-Footer-mobile" transform="translate(-15.000000, -23.000000)" fill="#000000">
+            <g id="Nav-/-[M]-Nav" transform="translate(0.000000, -1.000000)">
+                <g id="Nav-/-[M]-Nav-Copy">
+                    <g>
+                        <g id="Menu" transform="translate(15.000000, 24.000000)">
+                            <g id="menu" transform="translate(14.500000, 10.500000) scale(-1, 1) translate(-14.500000, -10.500000) ">
+                                <polygon id="Rectangle-15" points="29 0 11.8460165 0.00246529159 11 2.99936385 29 3"></polygon>
+                                <polygon id="Rectangle-15-Copy-3" points="29 18 5.83961133 18.0024653 5 20.9993639 29 21"></polygon>
+                                <polygon id="Rectangle-15-Copy-2" points="29 9 0.838104339 9.00246529 1.7941e-12 11.9993639 29 12"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
